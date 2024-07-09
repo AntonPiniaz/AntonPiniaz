@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [![Anton Piniaz](https://www.linkedin.com/in/anton-piniaz-446551175/)</h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/anton-piniaz-446551175/" target="_blank">Anton Piniaz</a></h1>
 <h3 align="center">Rust & JavaScript Engineer </h3>
 
 - I love Rust and am passionate about Blockchain and web3 domain
