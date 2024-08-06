@@ -8,7 +8,9 @@
 
 <h3>My skills:</h3>
 <p dir="auto">
-<a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/fa0849cb95cd6dcb012108ffd5fd2aad50ffebfc51f24e6272d5fa5ef11abee2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c74732c72656163742c6e6578746a732c72656475782c736173732c7461696c77696e64" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,graphql,react,nextjs,redux,tailwind,git,kubernetes,docker,linux,html,css" style="max-width: 100%;"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,graphql,react,nextjs,redux,tailwind,git,kubernetes,docker,linux,html,css" style="max-width: 100%;" />
+  </a>
 </p>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">You can reach me here:</h3></div>
 <p dir="auto"
