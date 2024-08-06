@@ -9,11 +9,11 @@
 <h3>My skills:</h3>
 <p dir="auto">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,graphql,react,nextjs,redux,tailwind,git,kubernetes,docker,linux,html,css" style="max-width: 100%;" />
+    <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,graphql,react,nextjs,redux,tailwind,git,kubernetes,docker,linux,aws,html,css" style="max-width: 100%;" />
   </a>
 </p>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">You can reach me here:</h3></div>
-<p dir="auto"
+<p dir="auto">
 <a href="https://www.linkedin.com/in/anton-piniaz-446551175/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/3b8814e1f22c453e3a05ceee01ddd40f351587ef02eea9ffcffb33f983d55a34/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" alt="Liam's LinkedIn" height="40" width="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
 <a href="mailto:antonsgrouva@gmail.com"><img align="center" src="https://camo.githubusercontent.com/a8fbccfc251a42d898b87dda6ecec4d9689fc1496ca84e7737cf2a3c8d800f8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d74696c652e737667" alt="Email Liam" height="40" width="40" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" style="max-width: 100%;"></a>
 </p>
