@@ -9,7 +9,7 @@
 <h3>My skills:</h3>
 <p dir="auto">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,graphql,react,nextjs,redux,tailwind,git,kubernetes,docker,linux,aws,html,css" style="max-width: 100%;" />
+    <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,mongodb,graphql,react,nextjs,redux,tailwind,wasm,git,kubernetes,docker,linux,aws,html,css" style="max-width: 100%;" />
   </a>
 </p>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">You can reach me here:</h3></div>
