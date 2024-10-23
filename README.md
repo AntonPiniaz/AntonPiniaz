@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,mysql,postgres,mongodb,graphql,react,nextjs,redux,tailwind,wasm,git,kubernetes,docker,linux,aws,html,css" style="max-width: 100%;" />
   </a>
 </p>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">You can reach me here:</h3></div>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">My contacts:</h3></div>
 <p dir="auto">
 <a href="https://www.linkedin.com/in/anton-piniaz-446551175/" rel="nofollow"><img src="https://private-user-images.githubusercontent.com/102806612/317084463-ffdf76e9-6e52-4f8b-8b61-84c57ea7f604.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk3MjQzOTIsIm5iZiI6MTcyOTcyNDA5MiwicGF0aCI6Ii8xMDI4MDY2MTIvMzE3MDg0NDYzLWZmZGY3NmU5LTZlNTItNGY4Yi04YjYxLTg0YzU3ZWE3ZjYwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyM1QyMjU0NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzg1NTczYzkwNjYxMTM1NzlmOWVhYWNhZDhmNmU4YTU0ZGEyMWRlNjM3YjhmMTM0ZGFkZWNmNWM1NjVlMmNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pbJE-Ifp10NvqywubKVgdZOhwnmkxN92VuP0CFS0TfI" alt="Linked" width="50" height="50" style="max-width: 100%;"></a>
 <a href="mailto:antonsgrouva@gmail.com"><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" width="50" height="50" style="max-width: 100%;" alt="Gmail"></a>
