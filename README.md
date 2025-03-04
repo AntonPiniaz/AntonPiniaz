@@ -2,7 +2,7 @@
 <h3 align="center">Rust & JavaScript Engineer </h3>
 
 - I love Rust🦀 and am passionate about Blockchain and web3 domain
-- I'm learning cryptography, interested in DeFi, TradFi and HFT
+- I'm learning cryptography, interested in DeFi and HFT
 - I also have a lot of experience with JavaScript and various frameworks/libraries
 - You can reach me here **antonsgrouva@gmail.com**
 
